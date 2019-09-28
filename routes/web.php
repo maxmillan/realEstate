@@ -17,5 +17,9 @@ Route::get('/', function () {
 Route::view('property','listGrid');
 Route::view('contact','contact');
 Route::view('listing-details','listing-details');
+Route::view('100*100','plot1');
+Route::view('House for sale','plot2');
+
+
 
 

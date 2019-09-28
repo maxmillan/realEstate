@@ -47,7 +47,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="footer__block">
-                    <div class="footer__title">Disclaimer</div>
+                    <div class="footer__title">About Us</div>
 
                     <div>Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.</div>
                 </div>

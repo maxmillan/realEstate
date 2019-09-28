@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gikambura Plot on sale</title>
+    <title>100*100 Plot</title>
 
     <!-- Vendors -->
 
@@ -51,7 +51,7 @@
 <section class="section">
     <div class="container">
         <header class="section__title section__title-alt">
-            <h2>Gikambura Plot</h2>
+            <h2>100*100 Plot</h2>
             <small>Kikuyu</small>
 
             <div class="actions actions--section">
@@ -106,8 +106,8 @@
                     <div class="detail-media">
                         <div class="tab-content">
                             <div class="tab-pane fade in active light-gallery" id="detail-media-images">
-                                <a href="img/property2.jpeg">
-                                    <img src="img/property2.jpeg" alt="">
+                                <a href="img/property03.jpeg">
+                                    <img src="img/property03.jpeg" alt="">
                                 </a>
                             </div>
                             <div class="tab-pane fade" id="detail-media-map">
@@ -133,11 +133,11 @@
 
                             <li>
                                 <span>Property Area</span>
-                                <span>500 sqft</span>
+                                <span>100 sqft</span>
                             </li>
                             <li>
                                 <span>Broker Fee</span>
-                                <span>Yes</span>
+                                <span>No</span>
                             </li>
 
                         </ul>
@@ -169,7 +169,7 @@
                         <h2>Property Overview</h2>
                     </div>
                     <div class="card__body">
-                        <p>A 1/8 Acre piece of land at Kikuyu, Gikambura, Home base area, just 300m off tarmac. The plot is flat,square,red soil and served by masaai road which has recently been upgraded. All amenities are within the proximity. Ready tittle dead with a willing seller</p>
+                        <p>A 100*100ft  plot at Kikuyu, Kamangu town near Kamangu gardens at Gewa road just past Ndeiya farm only 400m from tarmac. Flat, red soil and rectangular in shape. Ideal for a home or speculation.</p>
                     </div>
                 </div>
 
@@ -204,7 +204,7 @@
                             <i class="form-group__bar"></i>
                         </div>
                         <div class="form-group form-group--float">
-                            <textarea class="form-control textarea-autoheight">Hi there, I am interested in Gikambura Plot</textarea>
+                            <textarea class="form-control textarea-autoheight">Hi there, I am interested in 100*100ft Plot</textarea>
                             <label>Message</label>
                             <i class="form-group__bar"></i>
                         </div>

@@ -194,19 +194,19 @@
             <div class="listings-grid__item">
                 <a href="{{url('listing-details')}}">
                     <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/1.jpg" alt="">
-                        <div class="listings-grid__price">Ksh7.5M</div>
+                        <img src="img/property2.jpeg" alt="">
+                        <div class="listings-grid__price">Ksh 2,000,000</div>
                     </div>
 
                     <div class="listings-grid__body">
-                        <small>Kikuyu Muguku Flats</small>
-                        <h5>Residential</h5>
+                        <small>Gikambura Plot</small>
+                        <h5>Kikuyu</h5>
                     </div>
 
                     <ul class="listings-grid__attrs">
-                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 03</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 02</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 02</li>
+                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 00</li>
+                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 00</li>
+                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 00</li>
                     </ul>
                 </a>
 
@@ -220,21 +220,49 @@
             </div>
 
             <div class="listings-grid__item">
-                <a href="listing-detail.html">
+                <a href="{{url('100*100')}}">
                     <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/2.jpg" alt="">
-                        <div class="listings-grid__price">$1,200,000</div>
+                        <img src="img/property03.jpeg" alt="">
+                        <div class="listings-grid__price">Ksh 2,500,000</div>
                     </div>
 
                     <div class="listings-grid__body">
-                        <small>Beverly Hills, CA 90210</small>
-                        <h5>Duis sollicitudin ante bibendum</h5>
+                        <small>100*100 Plot</small>
+                        <h5>Kikuyu</h5>
                     </div>
 
                     <ul class="listings-grid__attrs">
-                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 03</li>
+                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 00</li>
+                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 00</li>
+                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 00</li>
+                    </ul>
+                </a>
+
+                <div class="actions listings-grid__favorite">
+                    <div class="actions__toggle">
+                        <input type="checkbox">
+                        <i class="zmdi zmdi-favorite-outline"></i>
+                        <i class="zmdi zmdi-favorite"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="listings-grid__item">
+                <a href="{{url('House for sale')}}">
+                    <div class="listings-grid__main">
+                        <img src="img/property4.jpeg" alt="">
+                        <div class="listings-grid__price">Ksh 8,500,000</div>
+                    </div>
+
+                    <div class="listings-grid__body">
+                        <small>House For Sale</small>
+                        <h5>Gitaru</h5>
+                    </div>
+
+                    <ul class="listings-grid__attrs">
+                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 04</li>
                         <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 03</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 01</li>
+                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> yes</li>
                     </ul>
                 </a>
 
@@ -248,43 +276,15 @@
             </div>
 
             <div class="listings-grid__item">
-                <a href="listing-detail.html">
+                <a href="">
                     <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/3.jpg" alt="">
-                        <div class="listings-grid__price">$910,000</div>
+                        <img src="img/property05.jpeg" alt="">
+                        <div class="listings-grid__price">Ksh </div>
                     </div>
 
                     <div class="listings-grid__body">
-                        <small>132 04th St, San Francisco</small>
-                        <h5>Fusce quis libero nonorcious</h5>
-                    </div>
-
-                    <ul class="listings-grid__attrs">
-                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 02</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 01</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 01</li>
-                    </ul>
-                </a>
-
-                <div class="actions listings-grid__favorite">
-                    <div class="actions__toggle">
-                        <input type="checkbox">
-                        <i class="zmdi zmdi-favorite-outline"></i>
-                        <i class="zmdi zmdi-favorite"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="listings-grid__item">
-                <a href="listing-detail.html">
-                    <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/4.jpg" alt="">
-                        <div class="listings-grid__price">$2,542,000</div>
-                    </div>
-
-                    <div class="listings-grid__body">
-                        <small>132 Lockslee, San Francisco</small>
-                        <h5>Pellentesque habitant</h5>
+                        <small></small>
+                        <h5></h5>
                     </div>
 
                     <ul class="listings-grid__attrs">
@@ -303,117 +303,6 @@
                 </div>
             </div>
 
-            <div class="listings-grid__item">
-                <a href="listing-detail.html">
-                    <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/5.jpg" alt="">
-                        <div class="listings-grid__price">$823,000</div>
-                    </div>
-
-                    <div class="listings-grid__body">
-                        <small>San Francisco, CA 900212 </small>
-                        <h5>Maecenas sed purus lorem aliquet cursus</h5>
-                    </div>
-
-                    <ul class="listings-grid__attrs">
-                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 01</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 01</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 0</li>
-                    </ul>
-                </a>
-
-                <div class="actions listings-grid__favorite">
-                    <div class="actions__toggle">
-                        <input type="checkbox">
-                        <i class="zmdi zmdi-favorite-outline"></i>
-                        <i class="zmdi zmdi-favorite"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="listings-grid__item">
-                <a href="listing-detail.html">
-                    <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/6.jpg" alt="">
-                        <div class="listings-grid__price">$1,120,000</div>
-                    </div>
-
-                    <div class="listings-grid__body">
-                        <small>21120 Broadway St, San Fransisco</small>
-                        <h5>Maecenas sed purus at lorem</h5>
-                    </div>
-
-                    <ul class="listings-grid__attrs">
-                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 03</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 02</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 02</li>
-                    </ul>
-                </a>
-
-                <div class="actions listings-grid__favorite">
-                    <div class="actions__toggle">
-                        <input type="checkbox">
-                        <i class="zmdi zmdi-favorite-outline"></i>
-                        <i class="zmdi zmdi-favorite"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="listings-grid__item">
-                <a href="listing-detail.html">
-                    <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/7.jpg" alt="">
-                        <div class="listings-grid__price">$3,000,000</div>
-                    </div>
-
-                    <div class="listings-grid__body">
-                        <small>San Francisco, CA 937202</small>
-                        <h5>Nullam finibus libero at hendrerit</h5>
-                    </div>
-
-                    <ul class="listings-grid__attrs">
-                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 06</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 05</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 02</li>
-                    </ul>
-                </a>
-
-                <div class="actions listings-grid__favorite">
-                    <div class="actions__toggle">
-                        <input type="checkbox">
-                        <i class="zmdi zmdi-favorite-outline"></i>
-                        <i class="zmdi zmdi-favorite"></i>
-                    </div>
-                </div>
-            </div>
-
-            <div class="listings-grid__item">
-                <a href="listing-detail.html">
-                    <div class="listings-grid__main">
-                        <img src="img/demo/listing/thumbs/8.jpg" alt="">
-                        <div class="listings-grid__price">$1,175,000</div>
-                    </div>
-
-                    <div class="listings-grid__body">
-                        <small>4313 Beverly Hills, CA 90210</small>
-                        <h5>1358 Ligula Street, Unit 12</h5>
-                    </div>
-
-                    <ul class="listings-grid__attrs">
-                        <li><i class="listings-grid__icon listings-grid__icon--bed"></i> 03</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--bath"></i> 02</li>
-                        <li><i class="listings-grid__icon listings-grid__icon--parking"></i> 02</li>
-                    </ul>
-                </a>
-
-                <div class="listings-grid__favorite">
-                    <div class="actions__toggle">
-                        <input type="checkbox">
-                        <i class="zmdi zmdi-favorite-outline"></i>
-                        <i class="zmdi zmdi-favorite"></i>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </header>
@@ -430,47 +319,47 @@
                 <div class="card">
                     <div class="card__header card__header--minimal">
                         <h2>Recent Properties for Sale</h2>
-                        <small>Nunc urnami tempor eget ipsum eurutrum gravida tellus</small>
+                        <small>Near you</small>
                     </div>
 
                     <div class="grid-widget grid-widget--listings">
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/9.jpg" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property4.jpeg" alt="">
 
                                 <div class="grid-widget__info">
-                                    <h3>$3,452,000</h3>
-                                    <small>4313 Beverly Hills, CA 90210</small>
+                                    <h3>Ksh 8,500,000</h3>
+                                    <small>Gitaru</small>
                                 </div>
                             </a>
                         </div>
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/10.jpg" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property03.jpeg" alt="">
 
                                 <div class="grid-widget__info">
-                                    <h3>$990,000</h3>
-                                    <small>San Francisco, CA 937202</small>
+                                    <h3>Ksh 2,500,000</h3>
+                                    <small>Kikuyu</small>
                                 </div>
                             </a>
                         </div>
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/11.jpg" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property05.jpeg" alt="">
 
                                 <div class="grid-widget__info">
-                                    <h3>1,500,000</h3>
-                                    <small>21 Shop St, San Francisco</small>
+                                    <h3>Ksh </h3>
+                                    <small></small>
                                 </div>
                             </a>
                         </div>
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/12.jpg" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property2.jpeg" alt="">
 
                                 <div class="grid-widget__info">
-                                    <h3>$1,650,690</h3>
-                                    <small>13 Beverly Hills, CA 01210</small>
+                                    <h3>Ksh 2,000,000</h3>
+                                    <small>Kikuyu</small>
                                 </div>
                             </a>
                         </div>
@@ -485,43 +374,43 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card__header card__header--minimal">
-                        <h2>Recent Properties for Rent</h2>
-                        <small>Suspendisse quis massa fringilla sagittis velit utultrices tellus</small>
+                        <h2>Recent Properties for Sale</h2>
+                        <small>Near your</small>
                     </div>
 
                     <div class="grid-widget grid-widget--listings">
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/13.jpg" class="img-responsive" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property4.jpeg" class="img-responsive" alt="">
                                 <div class="grid-widget__info">
-                                    <h3>$1,810,000</h3>
-                                    <small>4313 Beverly Hills, CA 90210</small>
+                                    <h3>Ksh 8,500,000</h3>
+                                    <small></small>
                                 </div>
                             </a>
                         </div>
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/14.jpg" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property03.jpeg" alt="">
                                 <div class="grid-widget__info">
-                                    <h3>$1,782,890</h3>
-                                    <small>700 Folcon St, San Fransisco, CA</small>
+                                    <h3>Ksh 2,500,000</h3>
+                                    <small>Kikuyu</small>
                                 </div>
                             </a>
                         </div>
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/15.jpg" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property05.jpeg" alt="">
                                 <div class="grid-widget__info">
-                                    <h3>$823,000</h3>
-                                    <small>1100 Sea avn, San Fransisco, CA</small>
+                                    <h3>Ksh</h3>
+                                    <small></small>
                                 </div>
                             </a>
                         </div>
                         <div class="col-xs-6">
-                            <a class="grid-widget__item" href="listing-detail.html">
-                                <img src="img/demo/listing/thumbs/16.jpg" alt="">
+                            <a class="grid-widget__item" href="{{url('property')}}">
+                                <img src="img/property2.jpeg" alt="">
                                 <div class="grid-widget__info">
-                                    <h3>$2,543,000</h3>
+                                    <h3>Ksh 2,000,000</h3>
                                     <small>132 04th St, San Francisco</small>
                                 </div>
                             </a>

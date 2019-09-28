@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gikambura Plot on sale</title>
+    <title>House For Sale</title>
 
     <!-- Vendors -->
 
@@ -51,8 +51,8 @@
 <section class="section">
     <div class="container">
         <header class="section__title section__title-alt">
-            <h2>Gikambura Plot</h2>
-            <small>Kikuyu</small>
+            <h2>House For Sale</h2>
+            <small>Gitaru</small>
 
             <div class="actions actions--section">
                 <div class="actions__toggle">
@@ -106,8 +106,8 @@
                     <div class="detail-media">
                         <div class="tab-content">
                             <div class="tab-pane fade in active light-gallery" id="detail-media-images">
-                                <a href="img/property2.jpeg">
-                                    <img src="img/property2.jpeg" alt="">
+                                <a href="img/property4.jpeg">
+                                    <img src="img/property4.jpeg" alt="">
                                 </a>
                             </div>
                             <div class="tab-pane fade" id="detail-media-map">
@@ -124,7 +124,7 @@
 
                     <div class="detail-info">
                         <div class="detail-info__header clearfix">
-                            <strong>Ksh 2,000,000</strong>
+                            <strong>Ksh 8,500,000</strong>
 
                             <span>For Sale</span>
                         </div>
@@ -136,9 +136,31 @@
                                 <span>500 sqft</span>
                             </li>
                             <li>
+                                <span>Total Rooms</span>
+                                <span>8</span>
+                            </li>
+                            <li>
+                                <span>Bedrooms</span>
+                                <span>4</span>
+                            </li>
+                            <li>
+                                <span>Bathrooms</span>
+                                <span>3</span>
+                            </li>
+                            <li>
+                                <span>Furnished</span>
+                                <span>Yes</span>
+                            </li>
+                            <li>
+                                <span>Parking Area</span>
+                                <span>Available</span>
+                            </li>
+
+                            <li>
                                 <span>Broker Fee</span>
                                 <span>Yes</span>
                             </li>
+
 
                         </ul>
                     </div>
@@ -151,10 +173,10 @@
 
                     <div class="card__body">
                         <ul class="detail-amenities__list">
-                            <li class="mdc-bg-red-300">N/A</li>
-                            <li class="mdc-bg-purple-300">N/A</li>
-                            <li class="mdc-bg-pink-300">N/A</li>
-                            <li class="mdc-bg-light-blue-500">N/A</li>
+                            <li class="mdc-bg-red-300">Parking</li>
+                            <li class="mdc-bg-purple-300">Pets Allowed</li>
+                            <li class="mdc-bg-pink-300">Smoking Allowed</li>
+                            <li class="mdc-bg-light-blue-500">Furnished</li>
                             <li class="mdc-bg-amber-400">N/A</li>
                             <li class="mdc-bg-teal-400">N/A</li>
                             <li class="mdc-bg-light-green-500"> N/A</li>
@@ -169,7 +191,7 @@
                         <h2>Property Overview</h2>
                     </div>
                     <div class="card__body">
-                        <p>A 1/8 Acre piece of land at Kikuyu, Gikambura, Home base area, just 300m off tarmac. The plot is flat,square,red soil and served by masaai road which has recently been upgraded. All amenities are within the proximity. Ready tittle dead with a willing seller</p>
+                        <p>A 4bedroom  house on 50*100 plot at Gitaru only 400m from Ruaka /Gitaru bypass. Served by an all weather gravel and murramed road. Ample water storage tanks. Attached bedsitter at the back, separate outside washroom, spacious parking with a green farm.</p>
                     </div>
                 </div>
 
@@ -204,7 +226,7 @@
                             <i class="form-group__bar"></i>
                         </div>
                         <div class="form-group form-group--float">
-                            <textarea class="form-control textarea-autoheight">Hi there, I am interested in Gikambura Plot</textarea>
+                            <textarea class="form-control textarea-autoheight">Hi there, I am interested in this House</textarea>
                             <label>Message</label>
                             <i class="form-group__bar"></i>
                         </div>

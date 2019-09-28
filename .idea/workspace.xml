@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec5ac038-bfdd-4b7c-8f6a-a82de6309040" name="Default Changelist" comment="" />
+    <list default="true" id="ec5ac038-bfdd-4b7c-8f6a-a82de6309040" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/property03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/property04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/property044.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/property05.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/property2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/property4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/plot1.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/plot2.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/listGrid.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/listGrid.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/listing-details.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/listing-details.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/_contacts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/_contacts.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +30,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -107,10 +127,19 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1R34Svu5NNqkuTVKhexaIs8qpwY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,10 +171,32 @@
       <updated>1568882448527</updated>
       <workItem from="1568882450628" duration="6108000" />
       <workItem from="1568972282584" duration="715000" />
+      <workItem from="1569314331188" duration="26000" />
+      <workItem from="1569314388228" duration="8313000" />
+      <workItem from="1569326927108" duration="601000" />
+      <workItem from="1569346461588" duration="754000" />
+      <workItem from="1569395717098" duration="2690000" />
+      <workItem from="1569487634541" duration="1886000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

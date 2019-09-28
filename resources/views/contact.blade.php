@@ -51,13 +51,6 @@
                             <li><i class="zmdi zmdi-email"></i>francisnjunge05@gmail.com</li>
                         </ul>
 
-                        <ul class="rmd-contact-list">
-                            <li class="rmd-contact-list__title"><i class="zmdi zmdi-home"></i>Another Staff Office</li>
-                            <li><i class="zmdi zmdi-pin"></i>7094 Leeton Ridge Mountain View, <br>CA 94043</li>
-                            <li><i class="zmdi zmdi-phone"></i>702-210-6015</li>
-                            <li><i class="zmdi zmdi-email"></i>san-jose@Roost.estate</li>
-                        </ul>
-
                         <div class="contact__social">
                             <a href="#" class="zmdi zmdi-facebook mdc-bg-indigo-300"></a>
                             <a href="#" class="zmdi zmdi-twitter mdc-bg-cyan-300"></a>

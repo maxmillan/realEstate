@@ -20,7 +20,7 @@
                         <i class="form-group__bar"></i>
                     </div>
 
-                    <p><small>By Signing up with Roost, you're agreeing to our <a href="#">terms and conditions</a>.</small></p>
+                    <p><small>By Signing up with Landline, you're agreeing to our <a href="#">terms and conditions</a>.</small></p>
 
                     <button class="btn btn-primary btn-block m-t-10 m-b-10">Register</button>
 
